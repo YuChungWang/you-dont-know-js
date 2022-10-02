@@ -9,4 +9,4 @@ this 繫結與函式是在何處宣告的無關，而是完全取決於函式被
 this 不是對於函式自身(function itself)的一個參考
 this 也不是指向函式語彙範疇(lexical scope)的參考
 
-this 是函示被調用時所進行的一個繫結(binding)，而它所參考的到底是什麼，完全取決於該函式被呼叫的呼叫地點(call-site)
+this 是函式被調用時所進行的一個繫結(binding)，而它所參考的到底是什麼，完全取決於該函式被呼叫的呼叫地點(call-site)
